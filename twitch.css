@@ -1,0 +1,54 @@
+#title{
+  margin-top: 20px;
+  font-family: 'Kumar One';
+}
+
+h1{
+   text-shadow: -1px 0 yellow, 0 1px yellow, 1px 0 yellow, 0 -1px yellow;
+}
+
+span{
+  color: white;
+}
+
+body{
+  background-color: #3347C4;
+}
+
+
+.btn-default{
+  background-color: #6441a5;
+}
+
+
+.resize{
+  border-radius: 50%;
+  border: 2px solid gold;
+  width: 50px;
+}
+
+#display{
+  background-color: #6441a5;
+  font-family: 'Arvo';
+  border-radius: 0px 0px 30px 30px;
+}
+
+.selector{
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+  font-family: 'Arvo';
+}
+
+.btn{
+  display: table-cell;
+  border-radius: 0 !important;
+}
+
+#icon{
+  color: white;
+}
+
+#icon a+a{
+  padding-left: 3em;
+}
